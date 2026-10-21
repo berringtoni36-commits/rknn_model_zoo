@@ -1,3 +1,19 @@
+# RKNN Model Zoo
+
+**Model conversion and Python/C API inference examples for Rockchip NPUs.**
+
+RKNPU · Model conversion · Python / C API
+
+[中文说明](README_CN.md) · [Model examples](examples/) · [Build setup](docs/Compilation_Environment_Setup_Guide.md) · [FAQ](FAQ.md)
+
+Choose an example and a supported SoC, prepare its model and RKNN toolchain, then follow that example’s instructions. Platform support and benchmarks belong to the upstream documentation below.
+
+> Fork under novadusk · Upstream: [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) · Branch: `main`. Upstream badges, release links and documentation below describe the original project.
+
+---
+
+## Upstream documentation
+
 [简体中文](README_CN.md) | [English](README.md)
 
 
@@ -198,4 +214,3 @@ All demos in `RKNN Model Zoo` are verified based on the latest RKNPU SDK. If usi
 ## License
 
 [Apache License 2.0](./LICENSE)
-
